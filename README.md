@@ -69,32 +69,21 @@ Topics covered:
 My current goal is to become a professional software developer, focusing on backend development and building reliable, scalable applications.
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanzapata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanzapata&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanzapata&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanzapata&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📫 Contact
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/luan-zapata-051559222">
-<img src="https://img.shields.io/badge/LinkedIn-Luan%20Zapata-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:luan_zapata@hotmail.com">
+<a href="mailto:zapattagamer@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
-
-</div>
 
 ---
 
