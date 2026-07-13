@@ -88,14 +88,6 @@ My current goal is to become a professional software developer, focusing on back
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:zapattagamer@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
 ---
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
 
 </div>
