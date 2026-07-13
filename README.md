@@ -74,9 +74,9 @@ My current goal is to become a professional software developer, focusing on back
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanzapata&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanzapata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanzapata&layout=compact&langs_count=8&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanzapata&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
@@ -84,14 +84,14 @@ My current goal is to become a professional software developer, focusing on back
 
 ## 📫 Contact
 
-<div>
+<div align="center">
 
-<a href="www.linkedin.com/in/luan-zapata-051559222">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/luan-zapata-051559222">
+<img src="https://img.shields.io/badge/LinkedIn-Luan%20Zapata-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:SEU_EMAIL_AQUI">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:luan_zapata@hotmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
 </div>
