@@ -85,7 +85,7 @@ Topics covered:
 * Object-Oriented Programming
 * Streams
 
-🔗 [java--studies](https://github.com/luanzapata/java--studies)
+🔗 [java-studies](https://github.com/luanzapata/java-studies)
 
 ---
 
