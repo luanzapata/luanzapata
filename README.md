@@ -1,20 +1,16 @@
 # Hi, I'm Luan Zapata 👋
 
-<div align="center">
-
-### Computer Engineering Student | Java Developer | Backend Enthusiast
-
-</div>
+### Computer Engineering Student | Java & Python Developer | Backend Enthusiast
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Engineering student at **Universidade Positivo** (Brazil), passionate about software development and technology.
+I'm a Computer Engineering student at **Universidade Positivo** (Brazil), passionate about software development, backend engineering and technology.
 
-Currently focused on improving my skills in **Java, backend development and software engineering practices**, building projects to strengthen my programming logic and create real-world applications.
+Currently focused on improving my skills in **Java and Python**, building real-world applications and strengthening my knowledge of software engineering, APIs and backend development.
 
-I believe in continuous learning, clean code and building a strong foundation in computer science.
+I believe in continuous learning, clean code and building a strong foundation in computer science through practical projects.
 
 ---
 
@@ -22,31 +18,59 @@ I believe in continuous learning, clean code and building a strong foundation in
 
 ### Programming Languages
 
-<div>
+* ☕ Java
+* 🐍 Python
+* 💻 C
 
-<img src="https://skillicons.dev/icons?i=java,python,c" />
+### Technologies & Concepts
 
-</div>
+* 🌐 REST APIs
+* 🔗 HTTP & JSON
+* 🕷️ Web Scraping
+* 🤖 Automation
+* 📡 Telegram Bot API
+* 🌱 Spring Boot
+* 🗄️ Databases
+* 🔧 Git & GitHub
 
-### Development Tools
+### Python
 
-<div>
-
-<img src="https://skillicons.dev/icons?i=git,github,idea,maven" />
-
-</div>
+* Requests
+* BeautifulSoup4
+* Playwright
+* python-dotenv
 
 ### Currently Learning
 
-- ☕ Java Backend Development
-- 🌱 Object-Oriented Programming (OOP)
-- 🔥 Spring Boot
-- 🗄️ Databases and APIs
-- 🏗️ Software Engineering concepts
+* ☕ Java Backend Development
+* 🌱 Spring Framework & Spring Boot
+* 🌐 REST API Development
+* 🗄️ Databases & SQL
+* 🏗️ Software Engineering
 
 ---
 
 ## 📚 Featured Projects
+
+### 🔥📉🛒 Radar Tech Ofertas
+
+A Python automation that finds technology and electronics deals on Mercado Livre, automatically generates affiliate links and publishes offers to a Telegram group several times a day.
+
+The project combines **web scraping, browser automation, data processing and Telegram integration**.
+
+**Technologies:**
+
+* Python
+* Requests
+* BeautifulSoup4
+* Playwright
+* Telegram Bot API
+* python-dotenv
+* Windows Task Scheduler
+
+🔗 [Radar Tech Ofertas](https://github.com/luanzapata/radar-tech-ofertas)
+
+---
 
 ### ☕ Java Studies
 
@@ -54,11 +78,12 @@ Repository containing my Java learning journey, exercises and programming challe
 
 Topics covered:
 
-- Java Fundamentals
-- Strings
-- Regular Expressions
-- Collections
-- Object-Oriented Programming
+* Java Fundamentals
+* Strings
+* Regular Expressions
+* Collections
+* Object-Oriented Programming
+* Streams
 
 🔗 [java--studies](https://github.com/luanzapata/java--studies)
 
@@ -66,28 +91,13 @@ Topics covered:
 
 ## 🎯 Goals
 
-My current goal is to become a professional software developer, focusing on backend development and building reliable, scalable applications.
+My current goal is to become a professional software developer, focusing on **backend development** and building reliable, scalable and well-structured applications.
+
+I'm currently expanding my knowledge of the **Java ecosystem, Spring Boot, REST APIs and databases**, while also using Python for automation and practical projects.
 
 ---
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanzapata&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanzapata&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 ## 📫 Contact
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/luan-zapata-051559222">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
----
-
-</div>
+* 💼 [LinkedIn](https://www.linkedin.com/in/luan-zapata-051559222)
+* 💻 [GitHub](https://github.com/luanzapata)
