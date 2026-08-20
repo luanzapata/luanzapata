@@ -1,10 +1,10 @@
-# Hi, I'm Luan Zapata 👋
+# Luan Zapata 
 
 ### Computer Engineering Student | Java & Python Developer | Backend Enthusiast
 
 ---
 
-## 👨‍💻 About Me
+## 
 
 I'm a Computer Engineering student at **Universidade Positivo** (Brazil), passionate about software development, backend engineering and technology.
 
@@ -39,14 +39,6 @@ I believe in continuous learning, clean code and building a strong foundation in
 * BeautifulSoup4
 * Playwright
 * python-dotenv
-
-### Currently Learning
-
-* ☕ Java Backend Development
-* 🌱 Spring Framework & Spring Boot
-* 🌐 REST API Development
-* 🗄️ Databases & SQL
-* 🏗️ Software Engineering
 
 ---
 
@@ -86,14 +78,6 @@ Topics covered:
 * Streams
 
 🔗 [java-studies](https://github.com/luanzapata/java-studies)
-
----
-
-## 🎯 Goals
-
-My current goal is to become a professional software developer, focusing on **backend development** and building reliable, scalable and well-structured applications.
-
-I'm currently expanding my knowledge of the **Java ecosystem, Spring Boot, REST APIs and databases**, while also using Python for automation and practical projects.
 
 ---
 
